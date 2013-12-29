@@ -39,5 +39,5 @@ rm -rf %{buildroot}
 /usr/share/virtio-win
 
 %changelog
-* Wed Nov 20 2013 Henry Stern <henry@stern.ca> - 0.1-74.1
-- Initial package
+* Sat Dec 28 2013 Henry Stern <henry@stern.ca> - 0.1-74.1
+- Update to 0.1-74.1
